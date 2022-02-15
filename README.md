@@ -1,5 +1,7 @@
-Curso Microserviços - Desafio de CI
+Microservices Course - CI Challenge
 
-- Processo de Cloudbuild
-- Rodar Testes Unitários
-- Fazer upload da imagem no GCP registry (Compilado e minificado - imagem scratch)
+Key topics:
+
+- Cloudbuild building
+- Unit Test
+- GCP Registry image upload (minified image)
